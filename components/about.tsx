@@ -39,9 +39,9 @@ export default function About() {
         <span className="italic">When I'm not coding</span>, I enjoy playing
         video games, watching movies. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        learning about <span className="font-medium">Linux</span>. I am also a
+        fan of <span className="font-medium">Formula 1</span>. <br />
+        btw I use Arch.
       </p>
     </motion.section>
   );

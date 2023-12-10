@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Ayden Jahola | Personal Portfolio",
   description:
-    "Ayden Jahola is a full time student at DCU, I am a self-taught developer with a passion for learning and creating. this website is my personal portfolio and will be the home of my future projects.",
+    "I am a full time student at DCU, I am a self-taught developer with a passion for learning and creating. this website is my personal portfolio and will be the home of my future projects.",
 };
 
 export default function RootLayout({

@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Front Line Technician - Havery Norman",
+    title: "Front Line Technician - Harvey Norman",
     location: "Drogheda, Ireland",
     description:
       "I worked as a front line technician for 1 year. I was responsible for fixing customer's devices and selling products.",
