@@ -19,10 +19,10 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am a computer scicnce Student at{" "}
+        I am a computer science student at{" "}
         <span className="font-medium">DCU</span>, I will be graduating in June
         2026. I am building my portfolio as a
-        <span className="font-medium">full-stack web developer</span>.{" "}
+        <span className="font-medium"> full-stack web developer</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
@@ -31,7 +31,7 @@ export default function About() {
           React, Next.js, Node.js, and MongoDB
         </span>
         . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am a self-taught developr with a passion for{" "}
+        learn new technologies. I am a self-taught developer with a passion for{" "}
         <span className="font-medium">learning and creating</span>.
       </p>
 
