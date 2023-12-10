@@ -41,7 +41,7 @@ export default function About() {
         <span className="font-medium">learning new things</span>. I am currently
         learning about <span className="font-medium">Linux</span>. I am also a
         fan of <span className="font-medium">Formula 1</span>. <br />
-        btw I use Arch.
+        <span className="font-medium">btw I use arch</span>.
       </p>
     </motion.section>
   );
