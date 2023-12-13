@@ -45,7 +45,7 @@ export const experiencesData = [
     title: "Lead Software Engineer - DCU Solar Racing",
     location: "Dublin, Ireland",
     description:
-      "I'm currently working as the lead software engineer for DCU Solar Racing. I'm responsible for developing the website and the telemetry system.",
+      "I'm currently the lead software engineer for DCU Solar Racing. I'm responsible for developing the website and the telemetry system.",
     icon: React.createElement(LuGraduationCap),
     date: "2022 - present",
   },
