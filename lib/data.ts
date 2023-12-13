@@ -1,6 +1,5 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
-import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import guestbookImg from "@/public/images/guestbook.png";
 import quirkoImg from "@/public/images/quirko.png";
@@ -46,7 +45,7 @@ export const experiencesData = [
     title: "Lead Software Engineer - DCU Solar Racing",
     location: "Dublin, Ireland",
     description:
-      "I'm currently working the lead software engineer for DCU Solar Racing. I'm responsible for developing the website and the telemetry system.",
+      "I'm currently working as the lead software engineer for DCU Solar Racing. I'm responsible for developing the website and the telemetry system.",
     icon: React.createElement(LuGraduationCap),
     date: "2022 - present",
   },
@@ -75,6 +74,7 @@ export const projectsData = [
       "Vercel",
     ],
     imageUrl: guestbookImg,
+    url: "https://guestbook.quirko.me/",
   },
   {
     title: "Quirko",
@@ -90,6 +90,7 @@ export const projectsData = [
       "heroku",
     ],
     imageUrl: quirkoImg,
+    url: "https://quirko.me/",
   },
   {
     title: "DCU Solar Racing",
@@ -108,6 +109,7 @@ export const projectsData = [
       "gsap",
     ],
     imageUrl: solarracingImg,
+    url: "https://solarracing.ie/",
   },
 ] as const;
 
