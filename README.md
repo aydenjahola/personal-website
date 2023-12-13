@@ -45,6 +45,12 @@ npm install
 npm run dev
 ```
 
+## Blogs
+
+the blog pages is a seperate project, you can find it [here](https://github.com/aydenjahola/personal-website-blog). It is hosted on Vercel and can be found [here](https://blog.aydenjahola.com). The blog is built with Next.js, Tailwind CSS, and Sanity. The blog is a seperate project because I wanted to keep the main website as light as possible and I wanted to be able to update the blog without having to redeploy the main website which is why I decided to use Sanity as a headless CMS. you can read about sanity [here](https://www.sanity.io/).
+
+the blogs uses sanity studio as a CMS, you read more about sanity studio [here](https://www.sanity.io/docs/sanity-studio). the studio is hosted on vercel and can be found [here](https://blog.aydenjahola.com/studio).
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env.local file
