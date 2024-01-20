@@ -6,18 +6,18 @@ This is my personal website, built with Next.js and Tailwind CSS.
 
 ## Features
 
--   Responsive design
--   Dark mode
--   Contact form with email notifications
+- Responsive design
+- Dark mode
+- Contact form with email notifications
 
 ## Tech Stack
 
--   Next.js
--   Tailwind CSS
--   TypeScript
--   Vercel
--   ReSend
--   Framer Motion
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Vercel
+- ReSend
+- Framer Motion
 
 ## Run Locally
 
