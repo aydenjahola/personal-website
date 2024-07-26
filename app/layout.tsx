@@ -8,8 +8,11 @@ import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import { Analytics } from "@vercel/analytics/react";
+import GoogleAdsense from "@/components/GoogleAdsense";
 
 const inter = Inter({ subsets: ["latin"] });
+
+const adsensePid = process.env.NEXT_PUBLIC_ADSENSE_PID;
 
 export const metadata = {
   title: "Ayden Jahola | Personal Portfolio",
@@ -50,6 +53,7 @@ export default function RootLayout({
           </ActiveSectionContextProvider>
         </ThemeContextProvider>
       </body>
+      <GoogleAdsense pId={adsensePid} />
     </html>
   );
 }
